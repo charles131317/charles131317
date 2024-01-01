@@ -1,7 +1,7 @@
 <h1>Hello, I’m Charles Buyinza, a Cyber Security professional with a strong passion for Cybersecurity. Eager to contribute my skills to securing digital environments, I’ve gained hands-on experience through internships and coursework. I am excited about the opportunity to tackle evolving challenges. I am ready to bring value to your team.</h1>
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
-
+https://github.com/charles131317/Cloud-Soc
 - <b>Azure/cloudcyber security projects </b>
   - [creating a live SOC](https://https://github.com/charles131317/Cloud-Soc)
 
