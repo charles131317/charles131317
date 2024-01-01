@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 - <b>Azure/cloudcyber security projects </b>
-  - [creating a live SOC](https://github.com/charles131317/Cyber-Soc)
+  - [creating a live SOC](https://https://github.com/charles131317/Cloud-Soc)
 
 <h2>[linkedin]: https://linkedin.com/in/charles-buyinza</h2>
  ...
